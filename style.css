@@ -135,6 +135,12 @@ footer {
     padding-top: 20px;
 }
 
+.footer-content {
+    max-width: 500px;
+    margin: 20px 0;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
 .footer-bottom {
     background-color: #333;
     color: #fff;
@@ -151,7 +157,6 @@ footer {
     opacity: 0.6;
     font-weight: 200;
 }
-
 
 
 
