@@ -4,6 +4,13 @@
     font-family: century;
 }
 
+/*body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(image/bambou.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    min-height: 100px;
+}*/
 header{
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(image/bambou.jpg);
     height: 150vh;
@@ -11,7 +18,6 @@ header{
     background-position: center;
     min-height: 100px;
 }
-
 ul{
     float: right;
     list-style-type: none;
@@ -121,7 +127,30 @@ ul li.active a{
     border-radius: 0px;
 }
 
+/*footer*/
+footer {
+    margin-top: 30px;
+    background-color: #faf8f4;
+    height: auto;
+    padding-top: 20px;
+}
 
+.footer-bottom {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center; 
+}
+.footer-bottom p {  
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+.footer-bottom span  {
+    text-transform: uppercase;
+    opacity: 0.6;
+    font-weight: 200;
+}
 
 
 
