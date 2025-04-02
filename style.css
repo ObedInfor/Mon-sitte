@@ -129,17 +129,19 @@ ul li.active a{
 
 /*footer*/
 footer {
-    margin-top: 30px;
+    margin-top: 0px;
     background-color: #faf8f4;
     height: auto;
-    padding-top: 20px;
+    padding-top: 0px;
 }
 
 .footer-content {
     max-width: 500px;
-    margin: 20px 0;
+    margin: 0px;
     letter-spacing: 1px;
     font-size: 15px;
+    position: relative;
+    left: 35%;
 }
 .footer-bottom {
     background-color: #333;
