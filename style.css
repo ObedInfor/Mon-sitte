@@ -55,6 +55,12 @@ ul li.active a{
     width: 100px;
     height: auto;
 }
+.logo1 img{
+    float: right;
+    width: 100px;
+    height: auto;
+    background: none;
+}
 
 .main{
     max-width: 1200px;
